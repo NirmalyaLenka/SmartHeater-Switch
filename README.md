@@ -35,6 +35,7 @@ See [`components.md`](components.md) for detailed component reasoning and sourci
 | Enclosure + wiring + misc | Safe packaging | ₹100 |
 
 <img width="310" height="297" alt="image" src="https://github.com/user-attachments/assets/16bac0bb-1cca-41f7-8eef-6013ddf714d9" /> SSR-25 DA
+<img width="500" height="376" alt="image" src="https://github.com/user-attachments/assets/d9bc0507-a120-436b-997a-724a4e3d89f2" /> HLK-PM01
 
 ---
 
