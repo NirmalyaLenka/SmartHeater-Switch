@@ -1,0 +1,19 @@
+# ── Credentials (NEVER commit these) ─────────────────────────
+src/config.h
+
+# ── Arduino / IDE ─────────────────────────────────────────────
+*.elf
+*.bin
+*.hex
+*.map
+build/
+.cache/
+**/.DS_Store
+Thumbs.db
+
+# ── VS Code ───────────────────────────────────────────────────
+.vscode/
+
+# ── Python / node tools ───────────────────────────────────────
+__pycache__/
+node_modules/
