@@ -34,7 +34,7 @@ See [`components.md`](components.md) for detailed component reasoning and sourci
 | Push button + LED | Physical controls | ₹15 |
 | Enclosure + wiring + misc | Safe packaging | ₹100 |
 
-<img width="310" height="297" alt="image" src="https://github.com/user-attachments/assets/16bac0bb-1cca-41f7-8eef-6013ddf714d9" />
+<img width="310" height="297" alt="image" src="https://github.com/user-attachments/assets/16bac0bb-1cca-41f7-8eef-6013ddf714d9" /> SSR-25 DA
 
 ---
 
