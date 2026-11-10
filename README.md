@@ -181,6 +181,16 @@ MIT — free to use, modify, and share. See [`LICENSE`](LICENSE).
 
 ---
 
+## Skills & technologies
+
+`Arduino/C++` · `C/C++` · `HTML/CSS`
+
+
+## How it works
+
+The main firmware sketch is `SmartHeater.ino`. Open it in Arduino IDE, verify the board, pin mapping and library requirements, then compile and upload. Test hardware behaviour on the real circuit before relying on it.
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026
